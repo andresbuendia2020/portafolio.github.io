@@ -229,7 +229,7 @@ const testimonials = [
     },
     {
         testimonial:
-            "Trabajar con Andrés ha sido una experiencia excelente. Su capacidad para resolver problemas complejos y su habilidad para trabajar en equipo son notables.",
+            "Profesional proactivo y responsable, con gran habilidad para trabajar en equipo y aprender de forma autónoma. Sus técnicas en desarrollo frontend mejoraron la calidad de nuestros proyectos, siendo su experiencia y compromiso un aporte valioso.",
         name: "Solangie Paola Garavito",
         designation: "Ingeniera de Sistemas | Especialista en Desarrollo de Software, Marketing Digital y Analítica Web.",
         company: "Directora de Innovación y Transformación Digital Trust4p",
@@ -249,7 +249,7 @@ const testimonials = [
 
 const projects = [
     {
-        upper_title: "Fast-growing SaaS with real clients",
+        upper_title: "",
         date: "Mayo 2024 - Presente",
         name: "Trust4p",
         description:
@@ -288,7 +288,7 @@ const projects = [
         source_code_link: "https://videface.app",
     },
     {
-        upper_title: "Giving real value to the company",
+        upper_title: "",
         date: "Febrero 2021 - Febrero 2024",
         name: "Tul.Sas",
         description:
@@ -323,11 +323,11 @@ const projects = [
                 color: "green-text-gradient",
             },
         ],
-        image: wiedii,
+        image: tul,
         source_code_link: "https://videface.app/",
     },
     {
-        upper_title: "Getting to know the professional world",
+        upper_title: "",
         date: "Noviembre 2019 - Febrero 2021",
         name: "Wiedii.Us",
         description:
@@ -366,7 +366,7 @@ const projects = [
                 color: "green-text-gradient",
             },
         ],
-        image: tul,
+        image: wiedii,
         source_code_link: "https://instagram.com/boga.peluqueria",
     },
 ];
