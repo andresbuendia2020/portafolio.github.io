@@ -26,7 +26,7 @@ const Hero = () => {
                         </motion.span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-                        Ingeniero de Software | Desarrollador Front End
+                        Ingeniero de Software | Desarrollador Senior Front End
                     </p>
                     <div className="flex sm:flex-row mt-7">
                         <a

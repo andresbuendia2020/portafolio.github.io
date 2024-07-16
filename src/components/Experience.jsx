@@ -55,8 +55,8 @@ const Experience = () => {
     return (
         <>
             <motion.div variants={textVariant()}>
-                <p className={`${styles.sectionSubText} text-center`}>My growth as a professional</p>
-                <h2 className={`${styles.sectionHeadText} text-center`}>Projects.</h2>
+                <p className={`${styles.sectionSubText} text-center`}>Mi crecimiento como profesional</p>
+                <h2 className={`${styles.sectionHeadText} text-center`}>Proyectos</h2>
             </motion.div>
 
             <div className="mt-20 flex flex-col">
@@ -68,12 +68,12 @@ const Experience = () => {
             </div>
             <div className="flex justify-center mt-10">
                 <a
-                    href="https://github.com/xlgabriel?tab=repositories"
+                    href="https://github.com/andresbuendia2020?tab=repositories"
                     target="_blank"
                     className="mb-4 sm:mb-0 sm:mr-4 green-pink-gradient p-[2px] rounded-[10px] shadow-card"
                 >
                     <button className="bg-[#151131] text-white px-4 py-2 rounded-lg transition duration-300 ease-in-out transform hover:scale-95">
-                        See all my projects on GitHub
+                        Ver todos mis proyectos en GitHub
                     </button>
                 </a>
             </div>

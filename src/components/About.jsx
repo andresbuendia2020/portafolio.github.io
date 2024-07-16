@@ -33,17 +33,20 @@ const About = () => {
     return (
         <>
             <motion.div variants={textVariant()}>
-                <p className={styles.sectionSubText}>Introduction</p>
-                <h2 className={styles.sectionHeadText}>About me.</h2>
+                <p className={styles.sectionSubText}>Introducción</p>
+                <h2 className={styles.sectionHeadText}>Sobre Mi</h2>
             </motion.div>
 
             <motion.p
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
             >
-                A dynamic professional with a diverse skill set encompassing Front-end Development, Game Development,
-                Cloud Engineering and expertise in Deep Learning/Machine Learning, DevOps, content creation, management
-                and more. Creator of a SaaS company giving value to the car rental market.
+                Ingeniero de software con especialidad en programación. 
+                Más de 5 años de experiencia brindando mis servicios profesionales 
+                a empresas de tecnología. He trabajado con empresas que integran 
+                una plantilla de más de 500 empleados, con un índice de satisfacción 
+                del 95%. Quiero brindar la misma calidad en su compañía y optimizar 
+                el rendimiento de los sistemas.
             </motion.p>
 
             <div className="mt-20 flex flex-wrap gap-10">

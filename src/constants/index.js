@@ -23,8 +23,11 @@ import {
     rentacar4less,
 } from "../assets";
 
-import cristianAvalo from "../assets/cristianavalo.jpg";
-import carlosOsorio from "../assets/carlososorio.jpg";
+import joelPaez from "../assets/joelPaez.jpeg";
+import joseRestrepo from "../assets/joseRestrepo.jpeg";
+import melerCarranza from "../assets/melerCarranza.jpeg";
+import solAngie from "../assets/solAngie.jpeg";
+import efraMancilla from "../assets/efraMancilla.jpeg";
 
 export const navLinks = [
     {
@@ -58,19 +61,19 @@ export const linkTreeNavLinks = [
 
 const services = [
     {
-        title: "Multimedia Developer",
+        title: "Front End Senior Developer",
         icon: web,
     },
     {
-        title: "FullStack/DevOps Engineer",
+        title: "Analista de desarrollo",
         icon: mobile,
     },
     {
-        title: "A.I. and Cloud Developer",
+        title: "Desarrollador en Angular y React",
         icon: backend,
     },
     {
-        title: "Video game Creator",
+        title: "Desarrollador en Python y TypeScript",
         icon: creator,
     },
 ];
@@ -198,30 +201,48 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "A man with many ideas and the ability to carry them out. We are happy with the software he developed for us. He's always proposing new ways of doing things under his experience and abilities. I definitely recommend him as a person and engineer.",
-        name: "Cristian Ávalo",
-        designation: "General director",
-        company: "Rent a car 4 less, located in Miami, Orlando, Fortlauderdale and Houston.",
-        image: cristianAvalo,
-        linkedin: "https://www.linkedin.com/in/cristian-avalo-4less",
+            "Un desarrollador con habilidades sobresalientes en Angular y React puede beneficiarse significativamente al explorar tecnologías de vanguardia para optimizar aplicaciones , mfe, etc.....",
+        name: "Joel Paez",
+        designation: "Director de TI y Operaciones | AI Generativa, Blockchain, Open Banking, ECommerce, B2b, MBA, Magister Fintech y Transformación Digital",
+        company: "Tul.sas",
+        image: joelPaez,
+        linkedin: "https://www.linkedin.com/in/joel-alberto-paez-rodriguez/",
     },
     {
         testimonial:
-            "A great student and undoubtedly a great professional in his field. He always demonstrated in class and with his grades an ability to excel in the areas that he is passionate about and master the ones he needs to master.",
-        name: "Andrés Gallego",
-        designation: "Multimedia engineering career director",
-        company: "Universidad Autónoma de Occidente",
-        image: "https://www.uao.edu.co/wp-content/uploads/2020/04/Andrés-Gallego-Small.jpg",
-        linkedin: "https://www.linkedin.com/in/andresfox",
+            "Andres siempre demostró compromiso y profesionalismo en el desarrollo de actividades que le fueron asignadas. Es muy receptivo con el feedback que se le da y le gusta estar en constante aprendizaje.",
+        name: "Meler Carranza",
+        designation: "Sr Frontend Developer | Angular",
+        company: "Tul.sas",
+        image: melerCarranza,
+        linkedin: "https://www.linkedin.com/in/melercarranza/",
     },
     {
         testimonial:
-            "Working with Gabriel helped me to discover a person with a lot of discipline and persistence in each task he takes on. I am still surprised by the way he approaches each problem and his multiple abilities to solve them.",
-        name: "Carlos Osorio",
-        designation: "NodeJS Developer at Globant, student",
-        company: "Universidad Autónoma de Occidente",
-        image: carlosOsorio,
-        linkedin: "https://www.linkedin.com/in/carlos-ivan-osorio",
+            "Andrés es un profesional comprometido y siempre dispuesto a aprender. Su capacidad para colaborar y aceptar feedback es ejemplar. Es un valioso miembro del equipo.",
+        name: "Jose Restrepo",
+        designation: "Frontend Developer | Angular Developer | React | JavaScript",
+        company: "Simetrik",
+        image: joseRestrepo,
+        linkedin: "https://www.linkedin.com/in/jose-restrepo-9489a117a/",
+    },
+    {
+        testimonial:
+            "Trabajar con Andrés ha sido una experiencia excelente. Su capacidad para resolver problemas complejos y su habilidad para trabajar en equipo son notables.",
+        name: "Solangie Paola Garavito",
+        designation: "Ingeniera de Sistemas | Especialista en Desarrollo de Software, Marketing Digital y Analítica Web.",
+        company: "Directora de Innovación y Transformación Digital Trust4p",
+        image: solAngie,
+        linkedin: "https://www.linkedin.com/in/solangie-paola-garavito-mendivelso-86177376/",
+    },
+    {
+        testimonial:
+            "Siempre dispuesto a aprender, demuestra mejoras continuas en sus procesos de desarrollo y aprendizaje, buen trabajo en equipo",
+        name: "Efraín José Mancilla",
+        designation: "Senior Development Engineer ",
+        company: "Bold",
+        image: efraMancilla,
+        linkedin: "https://www.linkedin.com/in/solangie-paola-garavito-mendivelso-86177376/",
     },
 ];
 
