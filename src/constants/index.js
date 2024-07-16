@@ -19,8 +19,9 @@ import {
     vuforia,
     githubblack,
     boga,
-    projects_videface,
-    rentacar4less,
+    wiedii,
+    trust4p,
+    tul,
 } from "../assets";
 
 import joelPaez from "../assets/joelPaez.jpeg";
@@ -249,13 +250,13 @@ const testimonials = [
 const projects = [
     {
         upper_title: "Fast-growing SaaS with real clients",
-        date: "July 2023 - Present",
-        name: "VideFace",
+        date: "Mayo 2024 - Presente",
+        name: "Trust4p",
         description:
-            "Transforms remote sales and customer service. Creation of a web app from scratch ready for commercial use. Build and maintain a scalable, multi-tenant and monetizing product. In charge of the other developers as a CTO and Scrum Master. Supervising the new features, code refactor, infrastructure improvements and more.",
+            "Trust4P, donde se especializó en la creación de aplicaciones de empleo utilizando Angular 17. Durante su periodo en la empresa, contribuyó activamente al diseño, desarrollo y mantenimiento de plataformas web avanzadas para la gestión y búsqueda de empleo, aplicando metodologías ágiles y utilizando tecnologías como Angular, así como otras herramientas y bibliotecas relevantes para asegurar la eficiencia y la experiencia del usuario.",
         tags: [
             {
-                name: "react",
+                name: "Scrum",
                 color: "blue-text-gradient",
             },
             {
@@ -267,42 +268,38 @@ const projects = [
                 color: "text-yellow-500",
             },
             {
-                name: "socket.io",
+                name: "Automatizacion",
                 color: "text-gray-300",
             },
             {
-                name: "webrtc",
+                name: "Ngrx",
                 color: "text-green-300",
             },
             {
-                name: "cloud run",
+                name: "Angular",
                 color: "orange-text-gradient",
             },
             {
                 name: "node.js",
                 color: "text-green-500",
             },
-            {
-                name: "cloudflare",
-                color: "text-orange-500",
-            },
         ],
-        image: projects_videface,
+        image: trust4p,
         source_code_link: "https://videface.app",
     },
     {
         upper_title: "Giving real value to the company",
-        date: "March 2023 - Present",
-        name: "Rent a car 4 less",
+        date: "Febrero 2021 - Febrero 2024",
+        name: "Tul.Sas",
         description:
-            "Development of web-based software to automatize car rental process in the offices. Automate internal processes related to the management of sensitive information. Development of new features on the WordPress page. In charge of social networks management, content creation, user experience and more.",
+            "Tul.Sas como Desarrollador Frontend desde febrero de 2021 hasta febrero de 2024. Durante este periodo, además de diseñar protocolos de pruebas automatizadas, desarrolló funcionalidades tanto para aplicaciones internas como externas utilizando metodologías ágiles como Scrum. Implementó técnicas avanzadas de SEO para optimizar el rendimiento y posicionamiento de los productos desarrollados.",
         tags: [
             {
-                name: "wordpress",
+                name: "Pruebas e2e",
                 color: "blue-text-gradient",
             },
             {
-                name: "nodemailer",
+                name: "Rxjs",
                 color: "green-text-gradient",
             },
             {
@@ -310,7 +307,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
             {
-                name: "google cloud",
+                name: "Typescript",
                 color: "text-yellow-500",
             },
             {
@@ -321,39 +318,55 @@ const projects = [
                 name: "material-ui",
                 color: "text-gray-300",
             },
+            {
+                name: "Angular",
+                color: "green-text-gradient",
+            },
         ],
-        image: rentacar4less,
+        image: wiedii,
         source_code_link: "https://videface.app/",
     },
     {
         upper_title: "Getting to know the professional world",
-        date: "June 2020 - December 2023",
-        name: "BOGA and Electronet",
+        date: "Noviembre 2019 - Febrero 2021",
+        name: "Wiedii.Us",
         description:
-            "BOGA and Siluetas Spa: in charge of editing content focused on text and audiovisual elements on a continuous basis for the social networks. Multimedia experiences developer. Electronet: in charge of the creation of the intro to the edition of the Opener and promotion of electronic events, all with high quality audiovisual detail. ",
+            "En WIEDII SAS, trabajé durante 2 años y 4 meses como Desarrollador de front-end y Analista de desarrollo (nov. 2019 - feb. 2022). Implementé técnicas de SEO, lideré la creación de aplicaciones Angular, y supervisé el despliegue y mantenimiento de aplicaciones y código interno. Además, desarrollé plataformas de ferias virtuales y aplicaciones internas usando Angular y WordPress.",
         tags: [
             {
-                name: "premiere pro",
+                name: "HTML",
                 color: "blue-text-gradient",
             },
             {
-                name: "canva",
+                name: "Wordpress",
                 color: "green-text-gradient",
             },
             {
-                name: "pro tools",
+                name: "Git",
                 color: "pink-text-gradient",
             },
             {
-                name: "after effects",
+                name: "Angular",
                 color: "blue-text-gradient",
             },
             {
-                name: "adobe media encoder",
+                name: "Javascript",
                 color: "text-yellow-400",
             },
+            {
+                name: "Scss-BEM",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Php",
+                color: "text-gray-300",
+            },
+            {
+                name: "Scrum",
+                color: "green-text-gradient",
+            },
         ],
-        image: boga,
+        image: tul,
         source_code_link: "https://instagram.com/boga.peluqueria",
     },
 ];

@@ -32,8 +32,9 @@ import vagrant from "./tech/vagrant.png";
 import githubblack from "./tech/githubblack.png";
 
 import boga from "./boga.webp";
-import projects_videface from "./projects_videface.webp";
-import rentacar4less from "./rentacar4less.webp";
+import wiedii from "./wiedii.webp";
+import tul from "./tul.webp";
+import trust4p from "./trust4p.webp";
 import me from "./me.webp";
 import phone from "./phone.svg";
 import email from "./email.svg";
@@ -73,8 +74,9 @@ export {
     vuforia,
     githubblack,
     boga,
-    projects_videface,
-    rentacar4less,
+    wiedii,
+    tul,
+    trust4p,
     me,
     phone,
     email,
