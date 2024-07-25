@@ -138,9 +138,9 @@ export default function ContactEmailTemplate({ message }) {
                     <div style={styles.footer.header}>
                         <a
                             style={styles.footer.a}
-                            href="https://xlgabriel.github.io/portfolio/"
+                            href="https://andresbuendia2020.github.io/portafolio/"
                             target="_blank"
-                            data-saferedirecturl="https://xlgabriel.github.io/portfolio/"
+                            data-saferedirecturl="https://andresbuendia2020.github.io/portafolio/"
                             rel="noreferrer nowrapper"
                         >
                             <img
@@ -152,7 +152,7 @@ export default function ContactEmailTemplate({ message }) {
                     </div>
                     <p style={styles.footer.p}>
                         <a style={styles.footer.a} href="">
-                            Gabriel Jeannot
+                            Andres Buendia
                         </a>{" "}
                         <br />
                         Feel free to reply to this email if you have any questions or concerns.

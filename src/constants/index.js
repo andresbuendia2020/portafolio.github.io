@@ -140,7 +140,7 @@ const experiences = [
         company_name: "Docker, Vagrant, Kaggle, Edge Impulse, ML Flow, API Rest, JS, Python, React, CSS, HTML, MUI",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://github.com/xlgabriel/linkscribe",
+        iconLink: "https://github.com/andresbuendia2020",
         date: "August 2023 - December 2023",
         points: [
             "Effortlessly create, organize, and categorize web links using NLP (Natural Language Processing). Copy and paste links to extract content information, categorize, and search with custom keywords.",
@@ -153,7 +153,7 @@ const experiences = [
             "Scrum, Jira, Miro, Taiga, Slack, Notion, KPIs, User Stories, Metrics, Daily Scrum, Sprints, soft skills",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://github.com/xlgabriel/academia",
+        iconLink: "https://github.com/andresbuendia2020",
         date: "February 2023 - June 2023",
         points: [
             "LMS-type open-source collaborative project where the user (teacher, student) can access their academic courses, upload and review multimedia content.",
@@ -165,7 +165,7 @@ const experiences = [
         company_name: "Unity, GitHub, GitLab, Miro, Scrum, Doc & Testing, Tesseract OCR, ONNX, Barracuda, Firebase, C#",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://gitlab.com/media-collab/dm2_lecturando",
+        iconLink: "https://github.com/andresbuendia2020",
         date: "February 2022 - December 2022",
         points: [
             "Unity game focused on solving the letter inversion problem (p,q,b,d) detected in kids from schools from Cali, Colombia.",
@@ -177,7 +177,7 @@ const experiences = [
         company_name: "React, HTML, CSS, JavaScript, Bootstrap, Canva, Netlify, Firebase, Node.js, Postman.",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://github.com/Johannes910/gopance",
+        iconLink: "https://github.com/andresbuendia2020",
         date: "August 2022 - December 2022",
         points: [
             "Web application similar to Rappi or Uber Eats, focused on Pance town in Cali, Colombia.",
@@ -189,7 +189,7 @@ const experiences = [
         company_name: "Python, CNN, Colab, Jupyter Notebook, ursina, h5py, keras, Speech recognizer, TensorFlow.",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://videface.app",
+        iconLink: "https://github.com/andresbuendia2020",
         date: "August 2022 - December 2022",
         points: [
             "Python-based Minecraft with words recognizer (Convolutional Neural Network), with our own dataset and training.",

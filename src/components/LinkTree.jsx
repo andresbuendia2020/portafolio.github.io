@@ -40,7 +40,7 @@ const LinkTree = () => {
                         </button>
                     </a>
                     <a
-                        href="https://github.com/xlgabriel"
+                        href="https://github.com/andresbuendia2020"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="mb-4 w-64 text-center green-pink-gradient p-[2px] rounded-[10px] shadow-card"
@@ -57,19 +57,19 @@ const LinkTree = () => {
                             <img src={phone} alt="phone" className="w-9 h-9 inline-block" />
                         </a>
                         <a
-                            href="mailto:gabriel.jeannot.personal@gmail.com"
+                            href="mailto:andresbuendia561@gmail.com"
                             className="mb-4 text-center violet-gradient rounded-full shadow-card hover:scale-110 transition duration-300 ease-in-out transform"
                         >
                             <img src={email} alt="email" className="w-9 h-9 inline-block" />
                         </a>
                         <a
-                            href="https://youtube.com/@xlgabriel"
+                            href=""
                             className="mb-4 text-center violet-gradient rounded-full shadow-card hover:scale-110 transition duration-300 ease-in-out transform"
                         >
                             <img src={youtube} alt="email" className="w-9 h-9 inline-block" />
                         </a>
                         <a
-                            href="https://instagram.com/jeannot.dev"
+                            href=""
                             className="mb-4 text-center violet-gradient rounded-full shadow-card hover:scale-110 transition duration-300 ease-in-out transform"
                         >
                             <img src={instagram} alt="email" className="w-9 h-9 inline-block" />
