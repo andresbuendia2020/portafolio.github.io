@@ -136,15 +136,14 @@ const technologies = [
 
 const experiences = [
     {
-        title: "LinkScribe | A.I. & Web Dev",
+        title: "Fire Detection| A.I",
         company_name: "Docker, Vagrant, Kaggle, Edge Impulse, ML Flow, API Rest, JS, Python, React, CSS, HTML, MUI",
         icon: github,
         iconBg: "radial-gradient(circle at center, #383076, #4a37de)",
-        iconLink: "https://github.com/andresbuendia2020",
-        date: "August 2023 - December 2023",
+        iconLink: "https://github.com/andresbuendia2020/EntrenamientoIA",
+        date: "January 2024 - June 2024",
         points: [
-            "Effortlessly create, organize, and categorize web links using NLP (Natural Language Processing). Copy and paste links to extract content information, categorize, and search with custom keywords.",
-            "Model trained from scratch and used in the backend, connected by API.",
+            "Effortlessly monitor and predict wildfire activity using satellite imagery. Analyze satellite images to identify fire-prone areas, enabling the development of predictive models for early detection and control of wildfires. Each image is labeled with binary annotations indicating the presence or absence of fires (1 or 0). This dataset facilitates research in wildfire prediction by training and evaluating various algorithms on labeled satellite imagery.",
         ],
     },
     {
