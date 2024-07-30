@@ -288,10 +288,10 @@ const projects = [
     },
     {
         upper_title: "",
-        date: "Febrero 2021 - Febrero 2024",
+        date: "Febrero 2022 - Febrero 2024",
         name: "Tul.Sas",
         description:
-            "Tul.Sas como Desarrollador Frontend desde febrero de 2021 hasta febrero de 2024. Durante este periodo, además de diseñar protocolos de pruebas automatizadas, desarrolló funcionalidades tanto para aplicaciones internas como externas utilizando metodologías ágiles como Scrum. Implementó técnicas avanzadas de SEO para optimizar el rendimiento y posicionamiento de los productos desarrollados.",
+            "Tul.Sas como Desarrollador Frontend desde febrero de 2022 hasta febrero de 2024. Durante este periodo, además de diseñar protocolos de pruebas automatizadas, desarrolló funcionalidades tanto para aplicaciones internas como externas utilizando metodologías ágiles como Scrum. Implementó técnicas avanzadas de SEO para optimizar el rendimiento y posicionamiento de los productos desarrollados.",
         tags: [
             {
                 name: "Pruebas e2e",
@@ -327,10 +327,10 @@ const projects = [
     },
     {
         upper_title: "",
-        date: "Noviembre 2019 - Febrero 2021",
+        date: "Enero 2020 - Febrero 2022",
         name: "Wiedii.Us",
         description:
-            "En WIEDII SAS, trabajé durante 2 años y 4 meses como Desarrollador de front-end y Analista de desarrollo (nov. 2019 - feb. 2022). Implementé técnicas de SEO, lideré la creación de aplicaciones Angular, y supervisé el despliegue y mantenimiento de aplicaciones y código interno. Además, desarrollé plataformas de ferias virtuales y aplicaciones internas usando Angular y WordPress.",
+            "En WIEDII SAS, trabajé durante 2 años y 1 mes como Desarrollador de front-end y Analista de desarrollo (nov. 2019 - feb. 2022). Implementé técnicas de SEO, lideré la creación de aplicaciones Angular, y supervisé el despliegue y mantenimiento de aplicaciones y código interno. Además, desarrollé plataformas de ferias virtuales y aplicaciones internas usando Angular y WordPress.",
         tags: [
             {
                 name: "HTML",
