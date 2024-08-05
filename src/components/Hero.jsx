@@ -59,6 +59,16 @@ const Hero = () => {
                                 <strong>CV</strong>
                             </button>
                         </a>
+                        <a
+                            href="https://drive.google.com/drive/folders/1nH7DmFZTLuUAc06kErankX9p-pNvNUGr?usp=sharing"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="mb-4 sm:mb-0 sm:mr-4 green-pink-gradient p-[2px] rounded-[10px] shadow-card"
+                        >
+                            <button className="bg-[#151131] text-white px-4 py-2 rounded-lg transition duration-300 ease-in-out transform hover:scale-95">
+                                <strong>Certificados laborales</strong>
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
